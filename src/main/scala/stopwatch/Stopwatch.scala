@@ -1,0 +1,3 @@
+package stopwatch
+
+trait Stopwatch {}
